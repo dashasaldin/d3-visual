@@ -1,6 +1,6 @@
 const dataset = "GDP-data.json";
 
-d3.json(dataset, (error, data) => {
+d3.json(dataset).then((data) => {
     const w = 500;
     const h = 500;
     const padding = 60;
