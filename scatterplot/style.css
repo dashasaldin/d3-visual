@@ -1,0 +1,35 @@
+.dot{
+    fill: blue;
+}
+.doping-dot {
+    fill: rgb(252, 141, 98); 
+}
+.nondoping-dot {
+    fill: rgb(102, 194, 165);
+}
+#title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+#tooltip {
+    white-space:pre-wrap;
+    position: absolute;
+    padding: 10px;
+    font: 12px sans-serif;
+    background: beige;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+    
+}
+.label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+#legend {
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+rect {
+  stroke-width: 2;
+}
