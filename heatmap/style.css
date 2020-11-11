@@ -1,0 +1,36 @@
+#title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+#description {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+#tooltip {   
+    white-space:pre-wrap;
+    position: absolute;           
+    text-align: center; 
+    padding: 5px;
+    width: 150px;                  
+    height: 55px;                        
+    font: 12px sans-serif;        
+    background: black;
+    color: white;
+    border: 0px;      
+    border-radius: 4px;           
+    pointer-events: none;
+}
+.label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+.text {
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#legend {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
