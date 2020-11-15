@@ -1,6 +1,6 @@
 
-  const width = 1000;
-        height = 700;
+const width = 1000;
+    height = 700;
 
 let svg = d3.select("body")
     .append("svg")

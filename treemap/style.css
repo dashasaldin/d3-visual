@@ -1,0 +1,26 @@
+body{
+text-align: center;
+}
+#title {
+    font-family: sans-serif;
+    font-size: 24px;
+    text-align: center
+}
+#tooltip {
+    white-space:pre-wrap;
+    position: absolute;
+    padding: 10px;
+    font: 12px sans-serif;
+    background: beige;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}
+#description {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+#text {
+    font-family: sans-serif;
+}
