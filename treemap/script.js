@@ -85,7 +85,7 @@ let legend = d3.select("body");
       
 legend.append("svg")
         .attr("class", "legendSequential")
-        .attr("transform", "translate(120,150)")
+        .attr("transform", "translate(20,20)")
         .attr("id", "legend")
       
 let legendSequential = d3.legendColor()

@@ -24,3 +24,7 @@ text-align: center;
 #text {
     font-family: sans-serif;
 }
+.legendSequential {
+    display: block;
+    margin: 0 auto;
+}
